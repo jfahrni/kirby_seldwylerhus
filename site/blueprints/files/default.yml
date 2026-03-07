@@ -1,0 +1,13 @@
+title: Bild
+
+accept:
+  extension: jpg, jpeg, png, webp, avif
+
+fields:
+  alt:
+    label: Alt-Text
+    type: text
+
+  caption:
+    label: Caption
+    type: text

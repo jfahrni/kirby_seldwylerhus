@@ -1,0 +1,13 @@
+Alt: kleiner Schlafraum für 6 Personen
+
+----
+
+Caption: kleiner Schlafraum für 6 Personen
+
+----
+
+Sort: 6
+
+----
+
+Uuid: x3wkbrmpii38x3vb

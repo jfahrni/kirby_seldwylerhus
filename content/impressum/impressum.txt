@@ -1,0 +1,55 @@
+Title: Impressum
+
+----
+
+Organisation: Stiftung Pfadfinderheim „Seldwylerhus"
+
+----
+
+Rechtsform: Stiftung
+
+----
+
+Che: CHE-110.383.909
+
+----
+
+Adresse:
+
+Juchzenbrünnelistrasse 22
+8180 Bülach
+
+----
+
+Kontakt:
+
+Barbara Passerini v/o Paprika
+Rietlistr. 8
+8180 Bülach
+
+(link: mailto:b.passerini@gmx.net text: b.passerini@gmx.net)
+(link: tel:+41765668180 text: 076 566 81 80)
+
+----
+
+Aufsicht: BVG- und Stiftungsaufsicht des Kantons Zürich (BVS)
+
+----
+
+Revision: Fiscon Treuhand AG, Bülach
+
+----
+
+Haftung: Die Stiftung Pfadfinderheim „Seldwylerhus" übernimmt keine Gewähr für die Richtigkeit, Vollständigkeit und Aktualität der auf dieser Website bereitgestellten Informationen. Haftungsansprüche, die sich auf Schäden materieller oder ideeller Art beziehen, welche durch die Nutzung oder Nichtnutzung der dargebotenen Informationen verursacht wurden, sind grundsätzlich ausgeschlossen.
+
+----
+
+Urheberrecht: Die Inhalte und Werke auf diesen Seiten unterliegen dem Schweizer Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung ausserhalb der Grenzen des Urheberrechts bedürfen der schriftlichen Zustimmung der Stiftung Pfadfinderheim „Seldwylerhus".
+
+----
+
+Template: impressum
+
+----
+
+Uuid: 9lukxbszefypgzgp

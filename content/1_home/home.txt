@@ -1,0 +1,142 @@
+Title: Home
+
+----
+
+Headline: Pfadiheim Bülach - Seldwylerhus
+
+----
+
+Lead:
+
+Das Pfadiheim Seldwylerhus der Pfadi Pulacha bietet einen wunderschönen Blick über die Stadt Bülach und eignet sich gleichermassen für Schulen, Lager und Feste.
+
+Es bietet einen grossen, heimeligen Aufenthaltsraum mit Platz für ca. 35 Personen mit einem gemütlichen Cheminée.
+
+Zwei unterschiedlich grosse Schlafräume (6 und 22 Plätze) bieten genügend Platz zum Übernachten.
+
+----
+
+Reservationlabel: Belegungsplan und Reservation
+
+----
+
+Reservationurl: https://pfadiheime.ch/en/cottages/110-pfadiheim-seldwylerhus-bulach
+
+----
+
+Description: SEO Desctription
+
+----
+
+Heroimage: - file://cqthzapfbfmarmo2
+
+----
+
+Gallerytop:
+
+- file://ruqswjfdyuk3b9y5
+- file://jt85pmpyw2jletsc
+- file://x3wkbrmpii38x3vb
+- file://wrikhbfchm5qipxb
+- file://fsqoy37zlfmq1cyq
+
+----
+
+Gallerybottom:
+
+- file://inxohorao7nx8ct9
+- file://socxrsc0zsre0n1l
+- file://44hszmuapxonwkrj
+- file://fnc595lzasdgk66y
+- file://djofnjuhna6tv99i
+- file://snhzkydhjn4hj3ul
+- file://nkp6f7rbqcmllcze
+- file://drwaywdrpnlye5sg
+- file://y1fofjfcanlx93so
+- file://z0vqygjutll3vfkb
+- file://nwjt1bcp1drkaocq
+- file://cxhntpwfw71kqkwp
+- file://x3wkbrmpii38x3vb
+
+----
+
+Heimtext:
+
+Das Pfadiheim bietet einen wunderschönen Ausblick über Bülach und eignet sich gleichermassen für:
+- Lager
+- Schulen
+- Feste
+
+Das Pfadiheim wird nicht für kommerzielle Veranstaltungen vermietet. Es dürfen keine Verpflegung und Getränke gegen Entgelt abgegeben und auch kein Eintrittsgeld verlangt werden.
+
+----
+
+Lagetext:
+
+Lage: Das Pfadiheim liegt am Ostrand der Stadt Bülach, nahe dem Weiler Eschenmosen am Dättenberg.
+
+Koordinaten: 684/375//263/975, Blatt Bülach
+
+----
+
+Geschichtetext:
+
+Das Pfadiheim wurde 1955 unter tatkräftiger Mitwirkung der Pfadi Pulacha erbaut und seither durch die Stiftung Seldwylerhus betrieben und unterhalten.
+
+Seit Sommer 2024 mit neuem Cheminée und Wärmepumpenheizung.
+
+----
+
+Kontakt:
+
+Barbara Passerini v/o Paprika
+Rietlistr. 8
+8180 Bülach
+
+(link: mailto:b.passerini@gmx.net text: b.passerini@gmx.net)
+(link: tel:+41765668180 text: 076 566 81 80)
+
+----
+
+Adresse:
+
+Pfadiheim Bülach
+Juchzenbrünnelistrasse 22
+8180 Bülach
+
+----
+
+Anreisetext:
+
+Im Sommer kann das Pfadiheim mit dem Auto erreicht werden. 
+**Es stehen zwei Parkplätze zur Verfügung. ** 
+
+
+Weitere Parkplätze bei der Sternwarte Bülach.
+
+Der Bahnhof Bülach ist ca. 2 km entfernt, die Busstation Stubenchlaus (Bus 501 und 503) liegt ca. 1 km entfernt.
+
+----
+
+Mapembedurl: https://www.google.com/maps?q=Juchzenbr%C3%BCnnelistrasse%2022%208180%20B%C3%BClach&output=embed
+
+----
+
+Uuid: ew8tpvjfdwdzesb3
+
+----
+
+Gallery:
+
+- file://xiil6bwlcmhnf4uu
+- file://n5xb2vafj8f6hg86
+- file://jt85pmpyw2jletsc
+- file://z0vqygjutll3vfkb
+- file://nwjt1bcp1drkaocq
+- file://xazlm6ivqmj9atkm
+- file://wrikhbfchm5qipxb
+- file://cxhntpwfw71kqkwp
+- file://fsqoy37zlfmq1cyq
+- file://aojwuwwvkzi6vwx9
+- file://rkusmr9uo5itzkmn
+- file://x3wkbrmpii38x3vb

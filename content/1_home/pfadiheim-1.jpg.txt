@@ -1,0 +1,13 @@
+Alt: Pfadiheim Seldwylerhus, aussen
+
+----
+
+Caption: Pfadiheim Seldwylerhus, aussen
+
+----
+
+Uuid: cqthzapfbfmarmo2
+
+----
+
+Focus: 50.0% 50.0%

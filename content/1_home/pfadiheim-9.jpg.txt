@@ -1,0 +1,13 @@
+Alt: Schlafraum für 22 Personen
+
+----
+
+Caption: Schlafraum für 22 Personen
+
+----
+
+Sort: 15
+
+----
+
+Uuid: jt85pmpyw2jletsc

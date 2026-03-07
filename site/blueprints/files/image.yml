@@ -1,0 +1,11 @@
+title: Bild
+accept:
+  extension: jpg, jpeg, png, webp
+
+fields:
+  alt:
+    label: Alt-Text
+    type: text
+  caption:
+    label: Caption (unter dem Bild)
+    type: text

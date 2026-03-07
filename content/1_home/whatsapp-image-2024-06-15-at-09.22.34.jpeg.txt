@@ -1,0 +1,9 @@
+Alt: Grosszügiger Aufenthaltsraum
+
+----
+
+Caption: Grosszügiger Aufenthaltsraum
+
+----
+
+Uuid: ruqswjfdyuk3b9y5

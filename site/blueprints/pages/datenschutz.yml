@@ -1,0 +1,7 @@
+title: Datenschutzerklärung
+
+fields:
+  text:
+    label: Datenschutzerklärung
+    type: textarea
+    size: huge

@@ -1,0 +1,49 @@
+Title: Hausordnung
+
+----
+
+Template: hausordnung
+
+----
+
+Subtitle: (Auszug)
+
+----
+
+Rules:
+
+-
+  title: Mieter
+  text: "Er ist für das Verhalten seiner Gruppe verantwortlich und haftet für alle durch diese verursachten Schäden. Die Stiftung lässt sämtliche Beschädigungen auf seine Kosten beheben."
+
+-
+  title: Heimwart
+  text: "Seinen Anordnungen ist strikte Folge zu leisten. Er ist befugt, Personen, die sich nicht an die Hausordnung halten, zu verwarnen oder bei krassen Verstössen aus dem Heim zu weisen."
+
+-
+  title: Umgebung
+  text: "Zum Waldbestand und den Pflanzen um das Haus ist Sorge zu tragen. Holzschlag auf eigene Faust ist verboten. Auf die Nachbarn ist Rücksicht zu nehmen. Auf der Terrasse darf kein Feuer gemacht und es dürfen keine Zelte aufgestellt werden."
+
+-
+  title: Nachtruhe
+  text: "Im Freien: ab 22 Uhr keinen Lärm mehr. Dies betrifft insbesondere auch An- und Abreise. Im Haus: Musik nur bei geschlossenen Fenstern."
+
+-
+  title: Parkplätze
+  text: "Für Velos und Mofas, sowie 2 Autos ist Platz vorhanden. Restliche Autos werden beim Parkplatz Sternwarte abgestellt. Max 8 Std."
+
+-
+  title: Rauchen
+  text: "Ausser im Aufenthaltsraum herrscht im ganzen Heim Rauchverbot. Auch Kerzen und Petroleumlampen sind feuerpolizeilich untersagt."
+
+-
+  title: Reinigung
+  text: "Das Heim ist in sauberem Zustand dem Heimwart zu übergeben. Alle Böden sind feucht aufzunehmen. In den Räumen sind genaue Anordnungen angeschlagen."
+
+-
+  title: Schäden
+  text: "Defekte aller Art sind dem Heimwart unaufgefordert zu melden. Die Kosten für die Instandsetzung werden dem Mieter in Rechnung gestellt. Schmierereien werden auf Kosten des Mieters entfernt."
+
+----
+
+Uuid: nfyhmm7wnkhtx4d6

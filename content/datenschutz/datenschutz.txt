@@ -1,0 +1,41 @@
+Title: Datenschutz
+
+----
+
+Template: datenschutz
+
+----
+
+Text:
+
+## Verantwortliche Stelle
+
+Stiftung Pfadfinderheim „Seldwylerhus"
+Juchzenbrünnelistrasse 22, 8180 Bülach
+Aufsicht: BVG- und Stiftungsaufsicht des Kantons Zürich (BVS)
+
+## Grundsatz
+
+Der Schutz Ihrer Personendaten ist uns wichtig. Wir verarbeiten Personendaten vertraulich und gemäss den Bestimmungen des Schweizer Datenschutzgesetzes (nDSG).
+
+## Server-Logfiles
+
+Beim Besuch dieser Website werden automatisch technische Zugriffsdaten im Server-Logfile gespeichert: IP-Adresse (anonymisiert), Datum und Uhrzeit, aufgerufene Seite, Browsertyp und Betriebssystem. Diese Daten dienen ausschliesslich der Sicherstellung des technischen Betriebs und werden nach 30 Tagen gelöscht.
+
+## Google Fonts
+
+Diese Website lädt Schriftarten von Google Fonts (Google LLC, USA). Dabei wird Ihre IP-Adresse an Google übertragen. Rechtsgrundlage ist das berechtigte Interesse an einer einheitlichen Darstellung der Website.
+
+## Google Maps
+
+Diese Website bindet Karten des Dienstes Google Maps (Google LLC, USA) ein. Google Maps wird erst geladen, nachdem Sie ausdrücklich eingewilligt haben. Ihre Einwilligung wird im lokalen Speicher Ihres Browsers gespeichert. Sie können die Einwilligung jederzeit auf der Seite (link: /cookie-einstellungen text: Cookie-Einstellungen) widerrufen.
+
+## Ihre Rechte
+
+Sie haben das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung der Verarbeitung Ihrer Personendaten. Wenden Sie sich dazu an die oben genannte Kontaktadresse.
+
+*Stand: März 2026. Dieser Text ist ein Muster und sollte vor dem Produktionseinsatz rechtlich geprüft werden.*
+
+----
+
+Uuid: eszqggcmlw2tnkjt

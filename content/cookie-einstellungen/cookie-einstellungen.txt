@@ -1,0 +1,23 @@
+Title: Cookie-Einstellungen
+
+----
+
+Template: cookie-einstellungen
+
+----
+
+Text:
+
+## Cookies und lokaler Speicher
+
+Diese Website setzt selbst **keine Marketing- oder Tracking-Cookies** ein.
+
+Für die optionale Kartenanzeige (Google Maps) speichern wir Ihre Einwilligung im **lokalen Speicher** Ihres Browsers (`localStorage`). Dabei handelt es sich nicht um ein Cookie, sondern um einen gerätespezifischen Eintrag, der nur in Ihrem Browser verbleibt und nicht übertragen wird.
+
+## Google Maps
+
+Wenn Sie die Karte auf der Startseite aktivieren, werden Daten an Google LLC (USA) übertragen. Weitere Informationen finden Sie in der (link: /datenschutz text: Datenschutzerklärung).
+
+----
+
+Uuid: jqngewkuvck1tvl5

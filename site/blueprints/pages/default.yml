@@ -1,0 +1,114 @@
+title: Startseite
+
+tabs:
+
+  intro:
+    label: Intro
+    icon: text
+    sections:
+      intro_fields:
+        type: fields
+        fields:
+          headline:
+            label: Überschrift
+            type: text
+            help: "Wird als H1 auf der Startseite angezeigt. Leer lassen = Seitentitel."
+          lead:
+            label: Einleitungstext
+            type: textarea
+            size: large
+            help: "Fliesstext unter dem Titel. Mehrere Absätze möglich."
+          reservationLabel:
+            label: Reservations-Button Text
+            type: text
+            default: Belegungsplan und Reservation
+            width: 1/2
+          reservationUrl:
+            label: Reservations-Link
+            type: url
+            width: 1/2
+          description:
+            label: Meta Description (SEO)
+            type: textarea
+            buttons: false
+            maxlength: 160
+            help: "Kurzbeschreibung für Suchmaschinen (max. 160 Zeichen)."
+
+  bilder:
+    label: Bilder
+    icon: image
+    sections:
+      bilder_fields:
+        type: fields
+        fields:
+          heroImage:
+            label: Headerbild
+            type: files
+            query: page.images
+            max: 1
+            layout: cards
+            size: medium
+            help: "Das grosse Bild direkt unter der roten Topbar."
+          galleryTop:
+            label: Oberer Bildstreifen
+            type: files
+            query: page.images
+            multiple: true
+            layout: cards
+            size: small
+            help: "Bilder für den roten Bildstreifen nach dem Introtext (5 Bilder empfohlen)."
+          galleryBottom:
+            label: Unteres Bildgitter
+            type: files
+            query: page.images
+            multiple: true
+            layout: cards
+            size: small
+            help: "Bilder für das grosse Bildgitter unterhalb der Infotexte."
+
+  texte:
+    label: Info-Texte
+    icon: pen
+    sections:
+      texte_fields:
+        type: fields
+        fields:
+          heimText:
+            label: Das Heim
+            type: textarea
+            size: large
+          lageText:
+            label: Lage und Umgebung
+            type: textarea
+            size: large
+          geschichteText:
+            label: Unsere Geschichte
+            type: textarea
+            size: large
+
+  kontakt:
+    label: Kontakt & Lageplan
+    icon: map
+    sections:
+      kontakt_fields:
+        type: fields
+        fields:
+          kontakt:
+            label: Kontakt (Person / Organisation)
+            type: textarea
+            size: medium
+            help: "Name, E-Mail, Telefon der Kontaktperson. Erscheint in Spalte 1 des Kontaktbereichs."
+          adresse:
+            label: Adresse des Heims
+            type: textarea
+            size: medium
+            help: "Postadresse des Pfadiheims. Erscheint in Spalte 2 des Kontaktbereichs."
+          anreiseText:
+            label: Anreise
+            type: textarea
+            size: medium
+            help: "Erscheint in der dritten Spalte des Kontaktbereichs."
+          mapEmbedUrl:
+            label: Google Maps Embed URL
+            type: url
+            help: "Format: https://www.google.com/maps?q=...&output=embed — Leer lassen für Standard-Karte."

@@ -1,0 +1,54 @@
+title: Impressum
+
+tabs:
+  betreiber:
+    label: Betreiber
+    icon: users
+    sections:
+      betreiber_fields:
+        type: fields
+        fields:
+          organisation:
+            label: Organisation
+            type: text
+          rechtsform:
+            label: Rechtsform
+            type: text
+            width: 1/2
+          che:
+            label: UID / CHE-Nummer
+            type: text
+            width: 1/2
+            help: "Format: CHE-XXX.XXX.XXX"
+          adresse:
+            label: Adresse
+            type: textarea
+            size: small
+            help: "Postadresse des Heims."
+          kontakt:
+            label: Kontakt
+            type: textarea
+            size: small
+            help: "Name, E-Mail, Telefon. Für klickbare Links: (link: mailto:info@example.ch text: info@example.ch) bzw. (link: tel:+41791234567 text: 079 123 45 67)"
+          aufsicht:
+            label: Aufsichtsbehörde
+            type: text
+          revision:
+            label: Revisionsstelle
+            type: text
+
+  rechtliches:
+    label: Rechtliches
+    icon: text
+    sections:
+      rechtliches_fields:
+        type: fields
+        fields:
+          haftung:
+            label: Haftungsausschluss
+            type: textarea
+            size: large
+          urheberrecht:
+            label: Urheberrecht
+            type: textarea
+            size: medium
