@@ -4,8 +4,8 @@
    Design Tokens
    ════════════════════════════════════════ */
 :root {
-  --red:        #a80000;
-  --red-dark:   #8a0000;
+  --red:        #8f0101;
+  --red-dark:   #720101;
   --bg:         #f7f5f1;
   --bg-white:   #ffffff;
   --text:       #362e2b;

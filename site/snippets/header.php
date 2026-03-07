@@ -52,7 +52,7 @@ if ($isHome && $page->heroImage()->isNotEmpty()) {
   <meta property="og:image:height" content="630">
   <?php endif ?>
 
-  <link rel="stylesheet" href="<?= url('assets/css/site.css') ?>?v=20260307r6">
+  <link rel="stylesheet" href="<?= url('assets/css/site.css') ?>?v=20260307r7">
 </head>
 <body>
 <header class="site-header">
