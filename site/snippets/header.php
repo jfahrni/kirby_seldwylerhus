@@ -3,16 +3,55 @@
 /** @var Kirby\Cms\Site $site */
 $reservationPage = $site->find('home');
 $reservationUrl = $reservationPage?->reservationUrl()->or('https://pfadiheime.ch/en/cottages/110-pfadiheim-seldwylerhus-bulach');
+
+$isHome     = $page->isHomePage();
+$noindex    = in_array($page->slug(), ['impressum', 'datenschutz', 'cookie-einstellungen']);
+$seoTitle   = $isHome
+                ? esc($page->title())
+                : esc($page->title()) . ' | ' . esc($site->title());
+$seoDesc    = $page->description()->isNotEmpty() ? esc($page->description()) : '';
+$canonical  = esc($page->url());
+
+$ogImage = '';
+if ($isHome && $page->heroImage()->isNotEmpty()) {
+  $hero = $page->heroImage()->toFile();
+  if ($hero) { $ogImage = esc($hero->resize(1200, 630)->url()); }
+}
 ?>
 <!doctype html>
 <html lang="de-CH">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title><?= esc($page->title()) ?> | <?= esc($site->title()) ?></title>
-  <?php if ($page->description()->isNotEmpty()): ?>
-  <meta name="description" content="<?= esc($page->description()) ?>">
+  <title><?= $seoTitle ?></title>
+
+  <?php if ($seoDesc): ?>
+  <meta name="description" content="<?= $seoDesc ?>">
   <?php endif ?>
+
+  <?php if ($noindex): ?>
+  <meta name="robots" content="noindex, follow">
+  <?php else: ?>
+  <meta name="robots" content="index, follow">
+  <?php endif ?>
+
+  <link rel="canonical" href="<?= $canonical ?>">
+
+  <!-- Open Graph -->
+  <meta property="og:type"        content="website">
+  <meta property="og:title"       content="<?= $seoTitle ?>">
+  <meta property="og:url"         content="<?= $canonical ?>">
+  <meta property="og:locale"      content="de_CH">
+  <meta property="og:site_name"   content="<?= esc($site->title()) ?>">
+  <?php if ($seoDesc): ?>
+  <meta property="og:description" content="<?= $seoDesc ?>">
+  <?php endif ?>
+  <?php if ($ogImage): ?>
+  <meta property="og:image"       content="<?= $ogImage ?>">
+  <meta property="og:image:width"  content="1200">
+  <meta property="og:image:height" content="630">
+  <?php endif ?>
+
   <link rel="stylesheet" href="<?= url('assets/css/site.css') ?>?v=20260307r6">
 </head>
 <body>

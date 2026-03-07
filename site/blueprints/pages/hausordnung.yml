@@ -1,6 +1,12 @@
 title: Hausordnung
 
 fields:
+  description:
+    label: Meta Description (SEO)
+    type: textarea
+    buttons: false
+    maxlength: 160
+    help: "Kurzbeschreibung für Suchmaschinen (max. 160 Zeichen)."
   subtitle:
     label: Untertitel
     type: text

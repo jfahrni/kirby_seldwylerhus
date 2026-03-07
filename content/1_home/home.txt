@@ -1,8 +1,8 @@
-Title: Home
+Title: Pfadiheim Seldwylerhus Bülach
 
 ----
 
-Headline: Pfadiheim Bülach - Seldwylerhus
+Headline: Pfadiheim Bülach – Seldwylerhus
 
 ----
 
@@ -24,7 +24,7 @@ Reservationurl: https://pfadiheime.ch/en/cottages/110-pfadiheim-seldwylerhus-bul
 
 ----
 
-Description: SEO Desctription
+Description: Pfadiheim Seldwylerhus in Bülach mieten – ideal für Lager, Schulen und Feste. Aufenthaltsraum für 35 Personen, Cheminée, zwei Schlafräume (6 und 22 Plätze).
 
 ----
 
