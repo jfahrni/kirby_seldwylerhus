@@ -1,6 +1,6 @@
 .git
 .claude
-media/*
+public/media/*
 site/cache/*
 site/accounts/*
 site/sessions/*

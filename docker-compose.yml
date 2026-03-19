@@ -2,10 +2,10 @@ services:
   web:
     build: .
     volumes:
-      - content:/var/www/html/content
-      - accounts:/var/www/html/site/accounts
-      - sessions:/var/www/html/site/sessions
-      - media:/var/www/html/media
+      - content:/var/www/app/content
+      - accounts:/var/www/app/site/accounts
+      - sessions:/var/www/app/site/sessions
+      - media:/var/www/app/public/media
     networks:
       - traefik
     labels:
