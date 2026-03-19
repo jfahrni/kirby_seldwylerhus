@@ -1,0 +1,8 @@
+.git
+.claude
+media/*
+site/cache/*
+site/accounts/*
+site/sessions/*
+assets/css/site.css.backup
+assets/css/site.css.backup2

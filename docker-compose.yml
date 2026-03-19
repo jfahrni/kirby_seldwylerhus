@@ -1,0 +1,26 @@
+services:
+  web:
+    build: .
+    volumes:
+      - content:/var/www/html/content
+      - accounts:/var/www/html/site/accounts
+      - sessions:/var/www/html/site/sessions
+      - media:/var/www/html/media
+    networks:
+      - traefik
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.pfadiheim.rule=Host(`www.pfadiheim-buelach.ch`)"
+      - "traefik.http.routers.pfadiheim.entrypoints=websecure"
+      - "traefik.http.routers.pfadiheim.tls.certresolver=letsencrypt"
+      - "traefik.http.services.pfadiheim.loadbalancer.server.port=80"
+
+volumes:
+  content:
+  accounts:
+  sessions:
+  media:
+
+networks:
+  traefik:
+    external: true
