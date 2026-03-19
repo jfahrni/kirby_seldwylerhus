@@ -22,17 +22,17 @@ No build step, no bundler. CSS is plain, hand-written in `assets/css/site.css`.
 
 ## Architecture
 
-Kirby is a flat-file CMS: pages correspond to folders under `content/`, and field values are stored in `.txt` files inside those folders.
+Kirby is a flat-file CMS: pages correspond to folders under `content/`, and field values are stored in `.txt` files inside those folders. Numbered prefixes (e.g. `1_hausordnung`) control sort order and visibility (listed vs. unlisted).
 
 ### Page Structure
 
-| Slug | Template | Purpose |
+| Content folder | Template | Purpose |
 |---|---|---|
 | `home` | `default.php` | Homepage with hero image, gallery, info sections, Google Maps |
-| `hausordnung` | `hausordnung.php` | House rules page (sections parsed from `###` headings in a textarea) |
-| `impressum` | `text.php` | Imprint (generic text page) |
-| `datenschutz` | `text.php` | Privacy policy |
-| `cookie-einstellungen` | `text.php` | Cookie settings info page |
+| `1_hausordnung` | `hausordnung.php` | House rules page (sections parsed from `###` headings in a textarea) |
+| `impressum` | `impressum.php` | Imprint |
+| `datenschutz` | `datenschutz.php` | Privacy policy |
+| `cookie-einstellungen` | `cookie-einstellungen.php` | Cookie settings info page |
 
 Navigation in `header.php` auto-generates links from `$site->children()->listed()`, excluding `impressum`, `datenschutz`, and `cookie-einstellungen`.
 
@@ -57,3 +57,22 @@ Images are uploaded via the Kirby Panel to the `home` page and sorted by the `so
 ## Kirby Panel
 
 Access at `/panel`. The first admin user must be created there on initial setup. `panel.install: true` is set in config — set it to `false` in production after setup.
+
+## Interaction Guidelines
+
+### Always ask clarifying questions when:
+- Intent is unclear or ambiguous
+- Task description allows multiple interpretations or lacks details
+- Multiple technical approaches are possible
+- Implementation pattern, library, or architecture is not specified
+- Field names, business rules, or technical details are not explicit
+
+### Present a plan and wait for approval when:
+- Task spans multiple steps or components
+- Multiple valid implementation approaches exist
+- Modifications affect existing functionality
+
+### Confirm before executing when:
+- Core functionality is being modified or deleted
+- Critical business logic is being adjusted
+- Expected outcome is not explicitly stated

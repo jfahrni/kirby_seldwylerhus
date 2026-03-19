@@ -3,6 +3,7 @@
 $excludeFromSitemap = ['impressum', 'datenschutz', 'cookie-einstellungen'];
 
 return [
+  'url' => "https://kirby.duckware.ch",
   'debug' => false,
   'panel' => [
     'install' => false
