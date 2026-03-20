@@ -3,7 +3,7 @@
 $excludeFromSitemap = ['impressum', 'datenschutz', 'cookie-einstellungen'];
 
 return [
-  'url' => "https://kirby.duckware.ch",
+  'url' => "https://new.pfadiheim-buelach.ch",
   'debug' => true,
   'panel' => [
     'install' => false

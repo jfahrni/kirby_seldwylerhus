@@ -1,13 +1,14 @@
 services:
   web:
     build: .
+    user: "1000:1000"
     volumes:
-      - .:/var/www/app
+      - ./:/var/www/app
     networks:
       - traefik
     labels:
       - "traefik.enable=true"
-      - "traefik.http.routers.pfadiheim.rule=Host(`www.pfadiheim-buelach.ch`)"
+      - "traefik.http.routers.pfadiheim.rule=Host(`new.pfadiheim-buelach.ch`)"
       - "traefik.http.routers.pfadiheim.entrypoints=websecure"
       - "traefik.http.routers.pfadiheim.tls.certresolver=letsencrypt"
       - "traefik.http.services.pfadiheim.loadbalancer.server.port=80"
